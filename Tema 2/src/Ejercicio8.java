@@ -1,13 +1,13 @@
-public class Ejercicio6 {
+public class Ejercicio8 {
     public static void main(String[] args) throws Exception {
+    char letr1='B';
+    char letr2='O';
+    char letr3='R';
+    char letr4='I';
+    char letr5='S';
     
-        float base=99f;
-        float resultado=21*base/100;
-        float fin=base+resultado;
-        System.out.printf("%14s%6s%.2f %n","Base imponible","", base);
-        System.out.printf("%8s %11s%.2f%n","Iva(21%)","",resultado);
-        System.out.println("--------------------------");
-        System.out.printf("%5s%15s%.2f","Total","",fin);
-
+    System.out.print(""+letr1+letr2+letr3+letr4+letr5);
+    //le he puesto las comillas al principio para que capte que lea el resto como string.
+        
     }
 }
