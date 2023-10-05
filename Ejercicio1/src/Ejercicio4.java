@@ -1,4 +1,4 @@
-public class App {
+public class Ejercicio4 {
     public static void main(String[] args) throws Exception {
         System.out.printf("%-10s %-10s %-10s %-10s %s \n","Lunes","Martes", "Mierc.", "Jueves", "Viernes");
         System.out.printf("%-10s %-10s %-10s %-10s %s \n","=====","======", "======", "======", "=======");

@@ -1,4 +1,4 @@
-public class App {
+public class Ejercicio2 {
     public static void main(String[] args) throws Exception {
         System.out.println("Boris Gallego Ríos");
         System.out.println("Calle inventada 99");

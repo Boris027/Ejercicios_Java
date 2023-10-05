@@ -1,4 +1,4 @@
-public class App {
+public class Ejercicio3 {
     public static void main(String[] args) throws Exception {
         System.out.printf("%-10s %s \n","Computer","Ordenador");
         System.out.printf("%-10s %s \n","Student","Alumno/a");
